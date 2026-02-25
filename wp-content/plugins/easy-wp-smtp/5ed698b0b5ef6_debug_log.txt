@@ -1,0 +1,8 @@
+Easy WP SMTP debug log file
+
+Cryptor::decryptString() - data length 12 is less than iv length 16Cryptor::decryptString() - data length 12 is less than iv length 16Cryptor::decryptString() - data length 12 is less than iv length 16Cryptor::decryptString() - data length 12 is less than iv length 16
+------------------------------------------------------------------------------------------------------
+Domain check failed: website domain (127.0.0.1) is not in allowed domains list.
+SMTP settings won't be used.
+------------------------------------------------------------------------------------------------------
+
